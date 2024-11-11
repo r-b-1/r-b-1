@@ -1,4 +1,5 @@
-![👋 Hi, my name is Zander Brown](https://cdna.artstation.com/p/assets/images/images/066/880/442/original/ilgin-gungor-calisma-masasi11.gif?1694002774)
+![👋 Hi, my name is Zander Brown]
+
 
 ![Profile views](https://komarev.com/ghpvc/?username=zander-brown&label=Profile%20views&color=0e75b6&style=flat)
 
