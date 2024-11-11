@@ -18,7 +18,7 @@
 
 **<h3 align="left">Rapid Fire</h3>**
 
-- 💼 I'm currently working on: **💻 Studying for Schoolhn**
+- 💼 I'm currently working on: **💻 Studying for School**
 - 🌱 I'm currently learning: **📚 Java**
 
  **<h3 align="left">Skills</h3>**
