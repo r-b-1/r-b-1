@@ -1,5 +1,3 @@
-![👋 Hi, my name is Zander Brown]
-
 
 ![Profile views](https://komarev.com/ghpvc/?username=zander-brown&label=Profile%20views&color=0e75b6&style=flat)
 
