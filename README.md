@@ -1,3 +1,1 @@
-
-Hello! My name is Jack and I am currently in college getting my batchelors in Computer Science.
-
+Hello! My name is Jack, and I am currently pursuing a bachelor’s degree in Computer Science.
